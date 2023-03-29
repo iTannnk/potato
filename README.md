@@ -1,3 +1,3 @@
 # potato
 
-## POTATO!
+## POTATO

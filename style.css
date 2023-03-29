@@ -1,0 +1,18 @@
+p {
+  background-color: paleturquoise;
+  color: violet;
+}
+.history {
+  background-color: turquoise;
+  color: lightcoral;
+  word-wrap: unset;
+}
+h1 {
+  color: brown;
+  background-color: orangered;
+}
+
+div {
+  margin-top: 250px;
+  margin-bottom: 250px;
+}
